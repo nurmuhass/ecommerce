@@ -51,7 +51,7 @@ npm i
 
 
 ```js
-NEXT_PUBLIC_API_URL=
+NEXT_PUBLIC_API_URL=https://admin-panel-mu-silk.vercel.app/api/a984200c-de2d-44cd-acbb-9d98e970b811
 ```
 
 
